@@ -1,9 +1,9 @@
 # Rushikesh Wayal
 
-Intro : Hello, I am curious learner
+Intro : Hello 👋, I am curious learner
 
-Skills : coder
+🚀 Skills : coder
 
-Project : None
+💼 Project : None
 
-Git Hub Stats:
+💹 Git Hub Stats:
