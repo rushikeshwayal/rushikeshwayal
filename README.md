@@ -8,8 +8,9 @@ Intro : Hello 👋, I am curious learner
 
 💹 Git Hub Stats:
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech-JavaScript-yellow" alt="Java">
-  <img src="https://img.shields.io/badge/Tech-React-blue" alt="C++">
+  <img src="https://img.shields.io/badge/Tech-Java-yellow" alt="Java">
+  <img src="https://img.shields.io/badge/Tech-Web-Dev-red" alt="Web-Dev">
+  <img src="https://img.shields.io/badge/Tech-C++-blue" alt="C++">
   <img src="https://img.shields.io/badge/Tech-Python-green" alt="Python">
   <img src="https://img.shields.io/badge/Tools-VSCode-purple" alt="VSCode">
 </p>
