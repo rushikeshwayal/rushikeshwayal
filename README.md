@@ -4,7 +4,7 @@ Intro : Hello 👋, I am curious learner
 
 🚀 Skills : coder
 
-💼 Project : Amazon Clone(Html Css)
+💼 Project : Amazon Clone (Html,Css .. only)
 
 💹 Git Hub Stats:
 <p align="center">
