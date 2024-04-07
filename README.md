@@ -1,6 +1,6 @@
 # Rushikesh Wayal
 
-Intro : Hello 👋, I am curious learner
+ Hello 👋, I am curious learner
 
 🚀 Skills : coder
 
