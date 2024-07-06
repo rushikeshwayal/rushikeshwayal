@@ -2,7 +2,7 @@
 
  Hello 👋, I am curious learner
 
-🚀 Skills : HTML, CSS, JS, node.JS, SQL, MongoDB, Postgrey
+🚀 Skills : Java, CPP, HTML, CSS, JS, Node.JS, SQL, MongoDB, Postgrey
 
 💼 Project : Amazon Clone (Html,Css .. only)
 
