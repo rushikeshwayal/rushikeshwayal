@@ -4,7 +4,7 @@
 
 🚀 Skills : Java, CPP, HTML, CSS, JS, Node.JS, SQL, MongoDB, Postgrey
 
-💼 Project : Amazon Clone (Html,Css .. only)
+
 
 💹 Git Hub Stats:
 <p align="center">
