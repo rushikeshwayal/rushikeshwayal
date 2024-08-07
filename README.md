@@ -2,7 +2,7 @@
 
  Hello 👋, I am curious learner
 
-🚀 Skills : Java, CPP, HTML, CSS,React JS, Node.JS, SQL, MongoDB, Postgrey
+🚀 Skills : Java, CPP, HTML,Tailwind CSS,React JS, Node.JS, SQL, MongoDB, Postgrey
 
 
 
