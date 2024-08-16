@@ -52,7 +52,7 @@ I'm experienced in **Web Development, Full-Stack Technologies**, and always keen
  <a href="." target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="WEB" />
  </a>
- <a href="[https://linkedin.com/in/al-siam](https://www.linkedin.com/in/rushikesh-wayal-87134a220/)" target="_blank">
+ <a href="https://www.linkedin.com/in/rushikesh-wayal-87134a220/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
  </a>
  <!-- <a href="." target="_blank">
