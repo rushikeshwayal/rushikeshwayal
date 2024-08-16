@@ -35,7 +35,7 @@ I'm experienced in **Web Development, Full-Stack Technologies**, and always keen
 ![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)-->
----
+
 
 ### 📊 **GitHub Stats**
 <p align="center">
@@ -47,11 +47,10 @@ I'm experienced in **Web Development, Full-Stack Technologies**, and always keen
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshwayal&theme=nightowl&hide_border=true&layout=compact" alt="Top Languages" width="400" />
 </p>
 
----
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rushikeshwayal&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="600" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rushikeshwayal&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="800" />
 </p>
 
 ---
