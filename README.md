@@ -1,4 +1,4 @@
-Here's an enhanced version of your GitHub profile markdown that maintains your original content but makes it even more appealing with some refinements:
+
 
 ---
 
@@ -66,4 +66,4 @@ I'm experienced in **Web Development, Full-Stack Technologies**, and always keen
 
 ---
 
-This version adds a bit more polish and centralizes the content to make it easier to read while still keeping the important stats and skills front and center. You can customize it further to your liking!
+
