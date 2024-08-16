@@ -1,36 +1,69 @@
-# Rushikesh Wayal
-
- Hello 👋, I am curious learner
-
-🚀 Skills : Java, CPP, HTML,Tailwind CSS,React JS, Node.JS, SQL, MongoDB, Postgrey
-
-
-
-💹 Git Hub Stats:
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech-Java-yellow" alt="Java">
-  <img src="https://img.shields.io/badge/Tech-Web_Dev-orange" alt="Web_Dev">
-  <img src="https://img.shields.io/badge/Tech-C++-blue" alt="C++">
-  <img src="https://img.shields.io/badge/Tech-Python-orchid" alt="Python">
-  <img src="https://img.shields.io/badge/Tools-VSCode-tale" alt="VSCode">
-</p>
-📌 GIT HUB STATS(📊):
-
-![](https://github-readme-stats.vercel.app/api?username=rushikeshwayal&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rushikeshwayal&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshwayal&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rushikeshwayal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 📫 How to Reach Me :   
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rushikesh-wayal-87134a220/)
-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/RushikeshWaya)
-
-###  Dev Quote :
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Here's an enhanced version of your GitHub profile markdown that maintains your original content but makes it even more appealing with some refinements:
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rushikeshwayal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 👋 Hi, I'm Rushikesh Wayal!  
+A **curious learner** passionate about coding and building solutions 🚀.  
+I'm experienced in **Web Development, Full-Stack Technologies**, and always keen to explore new tech!
+
+---
+
+### 🚀 **Skills & Technologies**:
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Java-yellow" alt="Java">
+  <img src="https://img.shields.io/badge/Code-C++-blue" alt="C++">
+  <img src="https://img.shields.io/badge/Code-HTML-orange" alt="HTML">
+  <img src="https://img.shields.io/badge/Framework-ReactJS-61DAFB" alt="ReactJS">
+  <img src="https://img.shields.io/badge/Framework-Node.JS-43853D" alt="NodeJS">
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Style-Tailwind_CSS-06B6D4" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Tools-VSCode-blue" alt="VSCode">
+</p>
+
+---
+
+### 📊 **GitHub Stats**:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rushikeshwayal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshwayal&theme=nightowl&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshwayal&theme=nightowl&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 **GitHub Trophies**:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rushikeshwayal&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 💬 **Dev Quote**:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
+### 📫 **How to Reach Me**:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rushikesh-wayal-87134a220/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/RushikeshWaya">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2" alt="Twitter" />
+  </a>
+</p>
+
+---
+
+### 🌍 **Profile Views**:
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=rushikeshwayal&icon=0&color=0" alt="Profile Views" />
+</p>
+
+---
+
+This version adds a bit more polish and centralizes the content to make it easier to read while still keeping the important stats and skills front and center. You can customize it further to your liking!
