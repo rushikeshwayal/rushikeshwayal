@@ -1,6 +1,6 @@
 
 
----
+
 
 # 👋 Hi, I'm Rushikesh Wayal!  
 A **curious learner** passionate about coding and building solutions 🚀.  
@@ -64,6 +64,6 @@ I'm experienced in **Web Development, Full-Stack Technologies**, and always keen
   <img src="https://visitcount.itsvg.in/api?id=rushikeshwayal&icon=0&color=0" alt="Profile Views" />
 </p>
 
----
+
 
 
