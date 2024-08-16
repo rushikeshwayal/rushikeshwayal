@@ -37,25 +37,28 @@ I'm experienced in **Web Development, Full-Stack Technologies**, and always keen
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)-->
 ---
 
-### 📊 **GitHub Stats**:
+### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushikeshwayal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshwayal&theme=nightowl&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshwayal&theme=nightowl&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rushikeshwayal&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshwayal&theme=nightowl&hide_border=true" alt="GitHub Streak" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshwayal&theme=nightowl&hide_border=true&layout=compact" alt="Top Languages" width="400" />
 </p>
 
 ---
 
-### 🏆 **GitHub Trophies**:
+### 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rushikeshwayal&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rushikeshwayal&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="600" />
 </p>
 
 ---
 
-### 💬 **Dev Quote**:
+### 💬 **Dev Quote**
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="600" />
 </p>
 
 ---
