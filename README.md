@@ -39,8 +39,8 @@ I'm experienced in **Web Development, Full-Stack Technologies**, and always keen
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushikeshwayal&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshwayal&theme=nightowl&hide_border=true" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rushikeshwayal&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" height = "300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshwayal&theme=nightowl&hide_border=true" alt="GitHub Streak" width="400" height = "300" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ I'm experienced in **Web Development, Full-Stack Technologies**, and always keen
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rushikeshwayal&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rushikeshwayal&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="1000" />
 </p>
 
 ---
