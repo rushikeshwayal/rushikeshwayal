@@ -44,9 +44,12 @@ I'm experienced in **Web Development, Full-Stack Technologies**, and always keen
 </p>
 
 
+### 📊 **Top Languages**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshwayal&theme=nightowl&hide_border=true&layout=compact" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshwayal&theme=nightowl&hide_border=true&layout=compact" alt="Top Languages" width="400"/>
 </p>
+
 
 
 ### 🏆 **GitHub Trophies**
