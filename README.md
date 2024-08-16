@@ -49,13 +49,26 @@ I'm experienced in **Web Development, Full-Stack Technologies**, and always keen
 ### 📫 **How to Reach Me**:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rushikesh-wayal-87134a220/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/RushikeshWaya">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2" alt="Twitter" />
-  </a>
+ <a href="." target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="WEB" />
+ </a>
+ <a href="[https://linkedin.com/in/al-siam](https://www.linkedin.com/in/rushikesh-wayal-87134a220/)" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+ </a>
+ <!-- <a href="." target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="aaa" />
+ </a> -->
+ <a href="https://x.com/Rushikesh_7_11" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/_rushikesh_wayal/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+ </a> 
+<!--  <a href="https://facebook.com/alsiam.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a>  -->
 </p>
+<br />
 
 ---
 
