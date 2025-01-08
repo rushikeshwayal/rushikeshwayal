@@ -68,7 +68,7 @@ I'm experienced in **Web Development, Full-Stack Technologies**, and always keen
 ### 📫 **How to Reach Me**:
 
 <p align="center">
- <a href="." target="blank">
+ <a href="https://rushikeshwayal.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="WEB" />
  </a>
  <a href="https://www.linkedin.com/in/rushikesh-wayal-87134a220/" target="_blank">
